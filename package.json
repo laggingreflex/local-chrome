@@ -1,0 +1,10 @@
+{
+  "name": "local-chrome",
+  "version": "0.0.0",
+  "description": "Path to locally installed Chrome",
+  "main": "index.js",
+  "repository": "laggingreflex/local-chrome",
+  "dependencies": {
+    "chrome-launcher": "^0.10.5"
+  }
+}
